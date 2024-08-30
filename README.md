@@ -3,7 +3,7 @@
 
 <!----------------------------------- Banner  ------------------------------------>
 
-[![MasterHead](https://github.com/DevRajib/2.DevopsProject/blob/main/Screenshot1.png)](#)
+[![MasterHead](https://github.com/DevRajib/2.DevopsProject/blob/main/Screenshot2.png)](#)
 
 
 
