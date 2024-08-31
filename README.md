@@ -9,4 +9,4 @@
 
 
 
-# step by step instruction Coming SOON 
+# Step by Step instruction coming soon
